@@ -24,8 +24,6 @@ numpy 1.23.5
 ### Pretrained Models
 CLIP: https://github.com/openai/CLIP
 
-The required files are "clip.py、simple_tokenizer.py"
-
 The weights file can be found at https://huggingface.co/
 
 
