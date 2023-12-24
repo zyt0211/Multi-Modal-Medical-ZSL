@@ -11,17 +11,28 @@ Paper "A Multi-modal Representation Learning Structure for Zero-shot Medical Ima
 
 ### Reqirements
 Python 3.8
+
 PyTorch 2.0
+
 transformers 4.28.1
+
 numpy 1.23.5
+
 ......
+
 
 ### Pretrained Models
 CLIP: https://github.com/openai/CLIP
+
 The required files are "clip.py、model.py、simple_tokenizer.py"
+
 The weights file can be found at https://huggingface.co/
+
 
 ### Acknowledgements
 CLIP: https://github.com/openai/CLIP
+
 GLoRIA: https://github.com/marshuang80/gloria
+
 SMedBERT: https://github.com/MatNLP/SMedBERT
+
